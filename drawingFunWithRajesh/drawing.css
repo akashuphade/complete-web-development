@@ -1,0 +1,26 @@
+body {
+    background-color: #eeeeee !important;
+}
+
+.container {
+    background-color: #ffffff;
+    height: 100%;
+}
+
+header, section {
+    position: fixed;
+    text-align: center;
+}
+
+header {
+    background-color: #ffffff;
+}
+
+section {
+    margin-top: 82px;
+}
+
+main {
+    padding-top: 415px;
+    padding-left: 20px;
+}
